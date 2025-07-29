@@ -44,7 +44,7 @@
           <mxGeometry x="350" y="260" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-16" value="投票&lt;span style=&quot;background-color: initial;&quot;&gt;x3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="450" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-17" value="Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="140" width="60" height="30" as="geometry" />
