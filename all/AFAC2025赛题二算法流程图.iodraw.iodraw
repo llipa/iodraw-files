@@ -58,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-17" value="Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="140" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="156" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="284" width="140" height="95" as="geometry" />
