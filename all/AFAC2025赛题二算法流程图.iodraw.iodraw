@@ -13,10 +13,10 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-3" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="225" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-4" value="句级切分&lt;div&gt;&lt;div&gt;向量化&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-4" value="句级切分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-5" value="向量化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-8" value="" style="group" vertex="1" connectable="0" parent="1">
