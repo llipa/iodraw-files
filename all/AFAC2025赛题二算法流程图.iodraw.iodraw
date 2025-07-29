@@ -23,7 +23,7 @@
           <mxGeometry width="170" height="55" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-9" value="冲突检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="180" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-12" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="48" y="210" width="70" height="80" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry y="50" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-13" value="冲突类型判定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="325" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
