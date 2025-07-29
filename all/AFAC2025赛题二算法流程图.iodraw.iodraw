@@ -73,9 +73,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-35" value="是否冲突" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="300" width="70" height="30" as="geometry" />
+          <mxGeometry x="530" y="306" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.717;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UDCaL3THK2TLMIF9qdPY-15" target="UDCaL3THK2TLMIF9qdPY-35">
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.027;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UDCaL3THK2TLMIF9qdPY-15" target="UDCaL3THK2TLMIF9qdPY-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
