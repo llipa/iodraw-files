@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-9" value="冲突检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356" y="340.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="346" y="380.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-12" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="185" y="160" width="70" height="80" as="geometry" />
@@ -52,25 +52,25 @@
           <mxGeometry y="50" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-13" value="冲突类型判定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356" y="295.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="346" y="335.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-16" value="投票&lt;span style=&quot;background-color: initial;&quot;&gt;x3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="268.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="308.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="UDCaL3THK2TLMIF9qdPY-17" target="UDCaL3THK2TLMIF9qdPY-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-17" value="Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="374" y="160" width="60" height="30" as="geometry" />
+          <mxGeometry x="364" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="273" width="140" height="105" as="geometry" />
+          <mxGeometry x="324" y="313" width="140" height="105" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UDCaL3THK2TLMIF9qdPY-30" target="UDCaL3THK2TLMIF9qdPY-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-30" value="需求冲突提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="204" width="100" height="30" as="geometry" />
+          <mxGeometry x="344" y="244" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-34" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -79,13 +79,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-35" value="是否冲突" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="506" y="310.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="496" y="350.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.027;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UDCaL3THK2TLMIF9qdPY-15" target="UDCaL3THK2TLMIF9qdPY-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-40" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="374" y="241" width="60" height="19" as="geometry" />
+          <mxGeometry x="364" y="281" width="60" height="19" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-44" value="句类型判定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="395" width="100" height="30" as="geometry" />
@@ -94,7 +94,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-43" value="类型相关句" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="209" y="432" width="60" height="19" as="geometry" />
+          <mxGeometry x="208" y="432" width="60" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
