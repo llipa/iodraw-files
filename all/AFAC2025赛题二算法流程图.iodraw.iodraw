@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UDCaL3THK2TLMIF9qdPY-1" value="特殊文档释义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="225" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-2" value="长文档切分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="225" width="120" height="40" as="geometry" />
+          <mxGeometry x="170" y="225" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-4" value="句级切分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="350" width="120" height="40" as="geometry" />
