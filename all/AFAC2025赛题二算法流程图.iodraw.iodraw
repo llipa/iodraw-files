@@ -31,8 +31,8 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-10" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
           <mxGeometry x="60" y="240" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="46" y="298" width="50" height="30" as="geometry" />
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-11" value="保险文档" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="295" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
