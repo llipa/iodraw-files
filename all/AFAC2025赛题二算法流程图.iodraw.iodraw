@@ -28,7 +28,7 @@
           <mxGeometry x="170" y="342" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="239" y="461" width="140" height="55" as="geometry" />
+          <mxGeometry x="239" y="443" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-6" value="向量数据库Milvus" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8.514264787946445;" vertex="1" parent="UDCaL3THK2TLMIF9qdPY-8">
           <mxGeometry width="140" height="55" as="geometry" />
@@ -69,13 +69,14 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UDCaL3THK2TLMIF9qdPY-30" target="UDCaL3THK2TLMIF9qdPY-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UDCaL3THK2TLMIF9qdPY-30">
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UDCaL3THK2TLMIF9qdPY-30" target="UDCaL3THK2TLMIF9qdPY-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="394" y="290" />
               <mxPoint x="300" y="290" />
-              <mxPoint x="300" y="410" />
+              <mxPoint x="300" y="400" />
+              <mxPoint x="280" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
