@@ -66,6 +66,9 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-30" value="需求冲突提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UDCaL3THK2TLMIF9qdPY-11" target="UDCaL3THK2TLMIF9qdPY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
