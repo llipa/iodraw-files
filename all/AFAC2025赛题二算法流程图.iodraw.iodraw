@@ -72,8 +72,8 @@
             <mxPoint x="219.70999999999998" y="254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="546" y="318" width="50" height="30" as="geometry" />
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-35" value="True/Fasle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="318" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
