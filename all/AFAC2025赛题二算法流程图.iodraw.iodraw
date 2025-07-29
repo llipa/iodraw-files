@@ -82,7 +82,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-40" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="260" width="120" height="13" as="geometry" />
+          <mxGeometry x="550" y="260" width="60" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
