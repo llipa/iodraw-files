@@ -43,8 +43,8 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-16" value="投票机制&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;x3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="220" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-17" value="Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="320" width="60" height="30" as="geometry" />
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-17" value="Query&lt;div&gt;来源&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="330" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
