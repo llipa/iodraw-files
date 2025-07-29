@@ -25,6 +25,9 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-6" value="向量数据库Milvus" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8.514264787946445;" vertex="1" parent="UDCaL3THK2TLMIF9qdPY-8">
           <mxGeometry width="170" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-9" value="长文档切分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="235" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
