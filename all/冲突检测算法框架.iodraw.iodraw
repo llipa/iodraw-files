@@ -77,10 +77,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="aULsOe33GudqOOvKh0jr-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-19" target="aULsOe33GudqOOvKh0jr-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-19" value="冲突检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="310" y="405" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aULsOe33GudqOOvKh0jr-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-22" target="aULsOe33GudqOOvKh0jr-46">
+        <mxCell id="aULsOe33GudqOOvKh0jr-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-22" target="aULsOe33GudqOOvKh0jr-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-22" value="冲突类型判定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
