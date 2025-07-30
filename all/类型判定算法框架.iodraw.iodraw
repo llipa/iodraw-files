@@ -64,7 +64,7 @@
           <mxGeometry x="390" y="530" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-12" value="文本来源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="500" width="60" height="20" as="geometry" />
+          <mxGeometry x="115" y="500" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-14" value="向量化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="467" width="81" height="30" as="geometry" />
