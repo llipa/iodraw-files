@@ -13,8 +13,11 @@
         <mxCell id="5OCmMo808kMQPRJZjFUw-3" value="文本块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="440" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5OCmMo808kMQPRJZjFUw-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OCmMo808kMQPRJZjFUw-4" target="5OCmMo808kMQPRJZjFUw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-4" value="Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="195" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-5" value="冲突类型提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="322" width="100" height="30" as="geometry" />
