@@ -64,6 +64,9 @@
         <mxCell id="aULsOe33GudqOOvKh0jr-16" value="相似句集合" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="410" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="aULsOe33GudqOOvKh0jr-19" value="向量检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="415" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
