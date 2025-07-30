@@ -7,6 +7,9 @@
         <mxCell id="aULsOe33GudqOOvKh0jr-1" value="向量检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="420" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aULsOe33GudqOOvKh0jr-2" value="来源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="50" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
