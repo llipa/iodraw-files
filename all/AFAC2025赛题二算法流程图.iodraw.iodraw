@@ -141,8 +141,8 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-72" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;按来源存储&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="148" y="473" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-73" value="冲突检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356" y="359.5" width="100" height="30" as="geometry" />
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-73" value="相似句检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="433" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
