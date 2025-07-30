@@ -74,7 +74,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="420" />
-              <mxPoint x="400" y="385" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -82,7 +81,7 @@
           <mxGeometry x="310" y="405" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-22" value="冲突类型判定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="414" y="370" width="80" height="30" as="geometry" />
+          <mxGeometry x="414" y="360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-45" value="x3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="340" width="40" height="30" as="geometry" />
