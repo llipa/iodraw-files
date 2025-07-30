@@ -43,6 +43,14 @@
         <mxCell id="5OCmMo808kMQPRJZjFUw-7" value="句级切分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="313" y="410" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5OCmMo808kMQPRJZjFUw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5OCmMo808kMQPRJZjFUw-8" target="5OCmMo808kMQPRJZjFUw-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="439" y="450" />
+              <mxPoint x="321" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-8" value="句类型判定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="399" y="410" width="80" height="30" as="geometry" />
         </mxCell>
