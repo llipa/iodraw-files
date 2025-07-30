@@ -138,6 +138,9 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-11" value="保险文档" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="185" y="163" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-72" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="136" y="478" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
