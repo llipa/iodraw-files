@@ -31,7 +31,7 @@
           <mxGeometry x="170" y="342" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="185" y="550" width="214" height="45" as="geometry" />
+          <mxGeometry x="185" y="510" width="214" height="45" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-6" value="向量数据库Milvus" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8.514264787946445;" vertex="1" parent="UDCaL3THK2TLMIF9qdPY-8">
           <mxGeometry width="214" height="45" as="geometry" />
@@ -141,9 +141,6 @@
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-62" value="来源" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="170" y="454" width="35" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-65" value="匹配句字典" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="364" width="90" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
