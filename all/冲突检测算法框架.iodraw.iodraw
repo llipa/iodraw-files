@@ -131,11 +131,11 @@
         <mxCell id="aULsOe33GudqOOvKh0jr-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=0.5;" vertex="1" parent="aULsOe33GudqOOvKh0jr-62">
           <mxGeometry width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aULsOe33GudqOOvKh0jr-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-63" target="aULsOe33GudqOOvKh0jr-22">
+        <mxCell id="aULsOe33GudqOOvKh0jr-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-63" target="aULsOe33GudqOOvKh0jr-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-63" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="434" y="359.5" width="46" height="20" as="geometry" />
+          <mxGeometry x="431" y="359.5" width="46" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
