@@ -33,11 +33,6 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="239" y="448" width="140" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0;exitDx=0;exitDy=2.4691367885044686;exitPerimeter=0;" edge="1" parent="UDCaL3THK2TLMIF9qdPY-8" source="UDCaL3THK2TLMIF9qdPY-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="171" y="2.428571428571331" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-6" value="向量数据库Milvus" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8.514264787946445;" vertex="1" parent="UDCaL3THK2TLMIF9qdPY-8">
           <mxGeometry width="140" height="55" as="geometry" />
         </mxCell>
@@ -111,6 +106,11 @@
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-43" value="类型相关句" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="190" y="422" width="60" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0;exitDx=0;exitDy=2.4691367885044686;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UDCaL3THK2TLMIF9qdPY-6" target="UDCaL3THK2TLMIF9qdPY-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="450.42857142857133" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
