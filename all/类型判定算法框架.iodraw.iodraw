@@ -109,20 +109,23 @@
         <mxCell id="5OCmMo808kMQPRJZjFUw-33" value="匹配句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="442" width="46" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5OCmMo808kMQPRJZjFUw-38" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="442" y="336" width="70" height="33" as="geometry" />
+        <mxCell id="5OCmMo808kMQPRJZjFUw-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="410" y="320" width="73" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="5OCmMo808kMQPRJZjFUw-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="450" y="355" width="10" height="10" as="geometry" />
+        <mxCell id="5OCmMo808kMQPRJZjFUw-38" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;" vertex="1" parent="5OCmMo808kMQPRJZjFUw-40">
+          <mxGeometry width="70" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="5OCmMo808kMQPRJZjFUw-35" value="使用大模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="455" y="350" width="60" height="20" as="geometry" />
+        <mxCell id="5OCmMo808kMQPRJZjFUw-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="5OCmMo808kMQPRJZjFUw-40">
+          <mxGeometry x="8" y="19" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="5OCmMo808kMQPRJZjFUw-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="341" width="10" height="10" as="geometry" />
+        <mxCell id="5OCmMo808kMQPRJZjFUw-35" value="使用大模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="5OCmMo808kMQPRJZjFUw-40">
+          <mxGeometry x="13" y="14" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5OCmMo808kMQPRJZjFUw-37" value="中间结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="451" y="336" width="60" height="20" as="geometry" />
+        <mxCell id="5OCmMo808kMQPRJZjFUw-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="5OCmMo808kMQPRJZjFUw-40">
+          <mxGeometry x="8" y="5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5OCmMo808kMQPRJZjFUw-37" value="中间结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="5OCmMo808kMQPRJZjFUw-40">
+          <mxGeometry x="9" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
