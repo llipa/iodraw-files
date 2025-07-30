@@ -28,8 +28,8 @@
         <mxCell id="5OCmMo808kMQPRJZjFUw-8" value="句类型判定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="410" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5OCmMo808kMQPRJZjFUw-9" value="来源1&lt;div&gt;Collection&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8.19046456473211;" vertex="1" parent="1">
-          <mxGeometry x="280" y="610" width="60" height="55" as="geometry" />
+        <mxCell id="5OCmMo808kMQPRJZjFUw-9" value="来源1&lt;div style=&quot;font-size: 10px;&quot;&gt;Collection&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.428565615699426;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="620" width="70" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
