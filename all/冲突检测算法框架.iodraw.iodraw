@@ -80,9 +80,9 @@
           <mxGeometry x="404" y="405" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-35" value="是/否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="478" y="399" width="40" height="20" as="geometry" />
+          <mxGeometry x="480" y="399" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aULsOe33GudqOOvKh0jr-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-44" target="aULsOe33GudqOOvKh0jr-46">
+        <mxCell id="aULsOe33GudqOOvKh0jr-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-22" target="aULsOe33GudqOOvKh0jr-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="494" y="420" as="sourcePoint" />
           </mxGeometry>
