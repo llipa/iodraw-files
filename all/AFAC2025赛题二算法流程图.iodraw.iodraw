@@ -147,10 +147,10 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-73" value="相似句检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="433" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=6.052812071330589;endSize=2.4564814814814815;width=4.62962962962963;fillColor=#000000;entryX=0.328;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="UDCaL3THK2TLMIF9qdPY-61">
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=6.052812071330589;endSize=2.4564814814814815;width=4.62962962962963;fillColor=#000000;entryX=0.328;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="229.76" y="488" as="sourcePoint" />
-            <mxPoint x="229.76" y="508" as="targetPoint" />
+            <mxPoint x="229.76" y="498.63" as="sourcePoint" />
+            <mxPoint x="229.68" y="483.36400000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
