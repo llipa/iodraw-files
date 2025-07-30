@@ -46,6 +46,9 @@
         <mxCell id="vEabjE1zyOlDWLsl3DX0-5" value="IMG" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="370" width="30" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="vEabjE1zyOlDWLsl3DX0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="vEabjE1zyOlDWLsl3DX0-6" target="vEabjE1zyOlDWLsl3DX0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vEabjE1zyOlDWLsl3DX0-6" value="WEB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="412.25" width="30" height="15" as="geometry" />
         </mxCell>
@@ -56,7 +59,7 @@
           <mxGeometry x="362" y="362.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vEabjE1zyOlDWLsl3DX0-9" value="来源判别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="403.75" width="80" height="30" as="geometry" />
+          <mxGeometry x="362" y="404.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vEabjE1zyOlDWLsl3DX0-10" value="来源判别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="442.5" width="80" height="30" as="geometry" />
