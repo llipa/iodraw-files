@@ -67,6 +67,9 @@
         <mxCell id="vEabjE1zyOlDWLsl3DX0-10" value="格式规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="442.5" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vEabjE1zyOlDWLsl3DX0-22" value="按行切分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="372.5" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
