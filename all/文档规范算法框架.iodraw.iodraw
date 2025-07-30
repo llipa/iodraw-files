@@ -96,13 +96,16 @@
           <mxGeometry x="460" y="444.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vEabjE1zyOlDWLsl3DX0-28" value="自然语言文本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="370" width="70" height="15" as="geometry" />
+          <mxGeometry x="564" y="370" width="70" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vEabjE1zyOlDWLsl3DX0-29" value="自然语言文本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="412.25" width="70" height="15" as="geometry" />
+          <mxGeometry x="564" y="412.25" width="70" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vEabjE1zyOlDWLsl3DX0-30" value="规范格式文本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="452" width="70" height="15" as="geometry" />
+          <mxGeometry x="564" y="452" width="70" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="vEabjE1zyOlDWLsl3DX0-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
