@@ -63,13 +63,13 @@
         <mxCell id="5OCmMo808kMQPRJZjFUw-11" value="来源3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.428565615699426;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="390" y="530" width="70" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="5OCmMo808kMQPRJZjFUw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="5OCmMo808kMQPRJZjFUw-12">
+        <mxCell id="5OCmMo808kMQPRJZjFUw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="5OCmMo808kMQPRJZjFUw-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-12" value="文本来源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115" y="500" width="60" height="20" as="geometry" />
+          <mxGeometry x="123" y="500" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-14" value="向量化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="467" width="81" height="30" as="geometry" />
