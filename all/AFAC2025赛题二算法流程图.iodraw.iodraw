@@ -102,9 +102,6 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-43" value="匹配句" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="210" y="433" width="60" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-51" value="相似句" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="374.5" y="399" width="43" height="19" as="geometry" />
-        </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UDCaL3THK2TLMIF9qdPY-56" target="UDCaL3THK2TLMIF9qdPY-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="440" as="targetPoint" />
@@ -152,9 +149,12 @@
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=6.052812071330589;endSize=2.4564814814814815;width=4.62962962962963;fillColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="497.31" as="sourcePoint" />
-            <mxPoint x="400.24" y="478.68" as="targetPoint" />
+            <mxPoint x="393.8" y="491.63" as="sourcePoint" />
+            <mxPoint x="394.04" y="473" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-51" value="相似句" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="374.5" y="399" width="43" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
