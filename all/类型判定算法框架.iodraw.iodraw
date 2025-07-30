@@ -25,8 +25,15 @@
         <mxCell id="5OCmMo808kMQPRJZjFUw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5OCmMo808kMQPRJZjFUw-5" target="5OCmMo808kMQPRJZjFUw-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5OCmMo808kMQPRJZjFUw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5OCmMo808kMQPRJZjFUw-5" target="5OCmMo808kMQPRJZjFUw-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5OCmMo808kMQPRJZjFUw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="227.5" y="364" as="sourcePoint" />
+            <mxPoint x="462.5" y="406" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="227.5" y="386" />
+              <mxPoint x="462.5" y="386" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-5" value="冲突类型提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="338" width="100" height="30" as="geometry" />
