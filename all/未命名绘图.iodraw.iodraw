@@ -7,9 +7,6 @@
         <mxCell id="vEabjE1zyOlDWLsl3DX0-1" value="来源判别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="410" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vEabjE1zyOlDWLsl3DX0-2" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=21;" vertex="1" parent="1">
-          <mxGeometry x="100" y="400" width="40" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
