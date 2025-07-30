@@ -14,16 +14,16 @@
           <mxGeometry x="125" y="385" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vEabjE1zyOlDWLsl3DX0-5" value="IMG" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="380" width="30" height="15" as="geometry" />
+          <mxGeometry x="310" y="370" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vEabjE1zyOlDWLsl3DX0-6" value="WEB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="411.25" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vEabjE1zyOlDWLsl3DX0-7" value="DOC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="442.5" width="30" height="15" as="geometry" />
+          <mxGeometry x="310" y="450" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vEabjE1zyOlDWLsl3DX0-8" value="来源判别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="372.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="400" y="362.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
