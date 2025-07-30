@@ -90,8 +90,8 @@
         <mxCell id="aULsOe33GudqOOvKh0jr-46" value="投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="514" y="405" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aULsOe33GudqOOvKh0jr-48" value="冲突" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="396" y="298" width="50" height="30" as="geometry" />
+        <mxCell id="aULsOe33GudqOOvKh0jr-48" value="冲突" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
