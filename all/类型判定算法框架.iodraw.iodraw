@@ -106,8 +106,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5OCmMo808kMQPRJZjFUw-33" value="True" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="281" y="411" width="30" height="20" as="geometry" />
+        <mxCell id="5OCmMo808kMQPRJZjFUw-33" value="匹配句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="424" y="443" width="46" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
