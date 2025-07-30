@@ -113,20 +113,23 @@
         <mxCell id="aULsOe33GudqOOvKh0jr-55" value="是否冲突" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="410" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aULsOe33GudqOOvKh0jr-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="480" y="340" width="10" height="10" as="geometry" />
+        <mxCell id="aULsOe33GudqOOvKh0jr-62" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="340" width="73" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="aULsOe33GudqOOvKh0jr-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="10" height="10" as="geometry" />
+        <mxCell id="aULsOe33GudqOOvKh0jr-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="aULsOe33GudqOOvKh0jr-62">
+          <mxGeometry x="6" y="26" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="aULsOe33GudqOOvKh0jr-59" value="中间结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="483" y="315" width="60" height="20" as="geometry" />
+        <mxCell id="aULsOe33GudqOOvKh0jr-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="aULsOe33GudqOOvKh0jr-62">
+          <mxGeometry x="6" y="6" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="aULsOe33GudqOOvKh0jr-60" value="调用大模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="487" y="335" width="60" height="20" as="geometry" />
+        <mxCell id="aULsOe33GudqOOvKh0jr-59" value="中间结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="aULsOe33GudqOOvKh0jr-62">
+          <mxGeometry x="9" y="1" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aULsOe33GudqOOvKh0jr-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="474" y="314" width="70" height="40" as="geometry" />
+        <mxCell id="aULsOe33GudqOOvKh0jr-60" value="调用大模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="aULsOe33GudqOOvKh0jr-62">
+          <mxGeometry x="13" y="21" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aULsOe33GudqOOvKh0jr-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=0.5;" vertex="1" parent="aULsOe33GudqOOvKh0jr-62">
+          <mxGeometry width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
