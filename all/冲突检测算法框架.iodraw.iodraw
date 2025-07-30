@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aULsOe33GudqOOvKh0jr-1" value="向量检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="404" width="80" height="30" as="geometry" />
+          <mxGeometry x="176" y="404" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-2" value="来源1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="410" width="40" height="20" as="geometry" />
@@ -34,7 +34,7 @@
           <mxGeometry x="60" y="438" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-13" value="top5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="270" y="450" width="40" height="20" as="geometry" />
+          <mxGeometry x="110" y="434" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-14" value="top5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="110" y="400" width="40" height="20" as="geometry" />
