@@ -45,12 +45,6 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-12" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="185" y="118" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-3" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="UDCaL3THK2TLMIF9qdPY-12">
-          <mxGeometry x="22" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-10" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="UDCaL3THK2TLMIF9qdPY-12">
-          <mxGeometry x="12" width="40" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-11" value="保险文档" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="UDCaL3THK2TLMIF9qdPY-12">
           <mxGeometry y="50" width="70" height="30" as="geometry" />
         </mxCell>
