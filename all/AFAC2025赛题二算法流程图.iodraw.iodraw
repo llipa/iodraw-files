@@ -92,7 +92,7 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-35" value="是否冲突" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="496" y="350.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.027;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UDCaL3THK2TLMIF9qdPY-15" target="UDCaL3THK2TLMIF9qdPY-35">
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.027;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UDCaL3THK2TLMIF9qdPY-13" target="UDCaL3THK2TLMIF9qdPY-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDCaL3THK2TLMIF9qdPY-40" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;fillColor=#d5e8d4;" vertex="1" parent="1">
