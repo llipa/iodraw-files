@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-2" value="粗类型判定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="410" width="90" height="30" as="geometry" />
+          <mxGeometry x="190" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-3" value="文本块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="440" width="60" height="30" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="310" y="410" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-8" value="句类型判定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="410" width="90" height="30" as="geometry" />
+          <mxGeometry x="420" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-9" value="来源1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.428565615699426;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="216" y="562" width="70" height="28" as="geometry" />
