@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vEabjE1zyOlDWLsl3DX0-1" value="来源判别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="410" width="80" height="30" as="geometry" />
+          <mxGeometry x="220" y="405" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vEabjE1zyOlDWLsl3DX0-3" value="保险文档" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="440" width="70" height="30" as="geometry" />
+          <mxGeometry x="110" y="435" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vEabjE1zyOlDWLsl3DX0-4" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;" vertex="1" parent="1">
-          <mxGeometry x="140" y="360" width="40" height="50" as="geometry" />
+          <mxGeometry x="125" y="385" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
