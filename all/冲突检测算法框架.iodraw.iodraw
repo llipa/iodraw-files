@@ -85,9 +85,9 @@
           <mxGeometry x="205" y="320" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-35" value="属于Query类型冲突" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="165" y="250" width="90" height="20" as="geometry" />
+          <mxGeometry x="170" y="220" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aULsOe33GudqOOvKh0jr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-22" target="aULsOe33GudqOOvKh0jr-35">
+        <mxCell id="aULsOe33GudqOOvKh0jr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-22" target="aULsOe33GudqOOvKh0jr-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
