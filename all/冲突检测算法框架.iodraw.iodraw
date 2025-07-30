@@ -10,8 +10,19 @@
         <mxCell id="aULsOe33GudqOOvKh0jr-1" value="向量检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="405" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aULsOe33GudqOOvKh0jr-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-2" target="aULsOe33GudqOOvKh0jr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-2" value="来源1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aULsOe33GudqOOvKh0jr-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-3" target="aULsOe33GudqOOvKh0jr-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="380" />
+              <mxPoint x="300" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-3" value="查询句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="216" y="370" width="40" height="20" as="geometry" />
