@@ -114,8 +114,8 @@
             <mxPoint x="410" y="450.42857142857133" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UDCaL3THK2TLMIF9qdPY-50" value="相似句子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#d5e8d4;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="376" y="422" width="60" height="30" as="geometry" />
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-51" value="类型相关句" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="354" y="429" width="60" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
