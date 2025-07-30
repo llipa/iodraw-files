@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-16" value="bge-m3" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="382" y="468.5" width="60" height="25" as="geometry" />
+          <mxGeometry x="382" y="470" width="60" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-22" value="True" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="271" y="399" width="30" height="20" as="geometry" />
@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-33" value="匹配句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="444" width="46" height="20" as="geometry" />
+          <mxGeometry x="414" y="442" width="46" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
