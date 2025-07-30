@@ -110,9 +110,6 @@
         <mxCell id="vEabjE1zyOlDWLsl3DX0-36" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
           <mxGeometry x="460" y="336.75" width="14.06" height="16.5" as="geometry" />
         </mxCell>
-        <mxCell id="vEabjE1zyOlDWLsl3DX0-37" value="大模型调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="468" y="330" width="70" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
