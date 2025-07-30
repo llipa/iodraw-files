@@ -159,6 +159,9 @@
         <mxCell id="UDCaL3THK2TLMIF9qdPY-79" value="查询句" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="351.5" y="400" width="43" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="UDCaL3THK2TLMIF9qdPY-80" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;按来源存储&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="158" y="483" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
