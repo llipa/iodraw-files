@@ -80,11 +80,14 @@
         <mxCell id="vEabjE1zyOlDWLsl3DX0-22" value="IMG释义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="362.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vEabjE1zyOlDWLsl3DX0-24" value="大模型释义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vEabjE1zyOlDWLsl3DX0-24" value="WEB释义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="404.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vEabjE1zyOlDWLsl3DX0-26" value="按行切分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="444.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vEabjE1zyOlDWLsl3DX0-28" value="IMG" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="30" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
