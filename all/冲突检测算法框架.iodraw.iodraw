@@ -11,7 +11,7 @@
           <mxGeometry x="170" y="405" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-2" value="来源1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="380" width="40" height="20" as="geometry" />
+          <mxGeometry x="256" y="350" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-3" value="查询句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="256" y="380" width="40" height="20" as="geometry" />
@@ -56,11 +56,14 @@
         <mxCell id="aULsOe33GudqOOvKh0jr-16" value="相似句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="256" y="409" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="aULsOe33GudqOOvKh0jr-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-19" target="aULsOe33GudqOOvKh0jr-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-19" value="冲突检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="310" y="405" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-22" value="冲突类型判定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="170" y="290" width="80" height="30" as="geometry" />
+          <mxGeometry x="410" y="405" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-33" value="冲突" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="205" y="320" width="40" height="20" as="geometry" />
