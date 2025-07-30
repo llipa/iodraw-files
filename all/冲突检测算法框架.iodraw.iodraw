@@ -13,11 +13,24 @@
         <mxCell id="aULsOe33GudqOOvKh0jr-3" value="查询句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="316" y="410" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="aULsOe33GudqOOvKh0jr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-5" target="aULsOe33GudqOOvKh0jr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-5" value="来源2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.71426827566961;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="60" y="370" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aULsOe33GudqOOvKh0jr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="418.8571428571428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-6" value="来源3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.71426827566961;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="60" y="404" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aULsOe33GudqOOvKh0jr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aULsOe33GudqOOvKh0jr-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aULsOe33GudqOOvKh0jr-7" value="..." style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.71426827566961;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="60" y="438" width="60" height="30" as="geometry" />
