@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-2" value="粗类型判定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="410" width="80" height="30" as="geometry" />
+          <mxGeometry x="185" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-3" value="文本块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="440" width="60" height="30" as="geometry" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-5" value="冲突类型提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="322" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OCmMo808kMQPRJZjFUw-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OCmMo808kMQPRJZjFUw-6" target="5OCmMo808kMQPRJZjFUw-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-6" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="365" width="60" height="20" as="geometry" />
@@ -54,6 +57,9 @@
         </mxCell>
         <mxCell id="5OCmMo808kMQPRJZjFUw-16" value="bge-m3" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="540" y="522.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5OCmMo808kMQPRJZjFUw-22" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="375" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
