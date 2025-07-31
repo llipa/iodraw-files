@@ -112,6 +112,10 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-159">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="504" y="560.5200000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="561" />
+              <mxPoint x="520" y="561" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-159" value="冲突类型判定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
@@ -127,7 +131,7 @@
           <mxGeometry x="363" y="578.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-165" value="是否冲突" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="550.5" width="50" height="20" as="geometry" />
+          <mxGeometry x="520" y="550.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-173" target="QeT_NbNgp4kRS5rv2p84-159">
           <mxGeometry relative="1" as="geometry" />
