@@ -129,8 +129,11 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-165" value="是否冲突" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="550.5" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-173" target="QeT_NbNgp4kRS5rv2p84-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-173" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="421" y="505" width="46" height="20" as="geometry" />
+          <mxGeometry x="421" y="510" width="46" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-178" value="&lt;b&gt;第二版冲突检测&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="540.5" width="110" height="30" as="geometry" />
