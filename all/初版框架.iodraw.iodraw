@@ -213,23 +213,11 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-120" value="是否冲突" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="591" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-121" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="630" y="530" width="73" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-123" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-121">
-          <mxGeometry x="6" y="6" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-124" value="中间结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-121">
-          <mxGeometry x="9" y="1" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-125" value="调用大模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-121">
-          <mxGeometry x="13" y="21" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-126" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=0.5;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-121">
-          <mxGeometry width="70" height="40" as="geometry" />
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-128" target="QeT_NbNgp4kRS5rv2p84-112">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-128" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="417" y="540.5" width="46" height="20" as="geometry" />
+          <mxGeometry x="417" y="551" width="46" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
