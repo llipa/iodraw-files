@@ -129,7 +129,7 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-165" value="是否冲突" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="550.5" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-173" target="QeT_NbNgp4kRS5rv2p84-159">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-173" target="QeT_NbNgp4kRS5rv2p84-159">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-173" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
@@ -205,6 +205,9 @@
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-194" value="是否冲突" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="670.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-196" target="QeT_NbNgp4kRS5rv2p84-188">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-196" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="421" y="631" width="46" height="20" as="geometry" />
