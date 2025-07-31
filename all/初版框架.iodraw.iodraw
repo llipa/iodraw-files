@@ -213,11 +213,14 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-120" value="是否冲突" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="591" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-128" target="QeT_NbNgp4kRS5rv2p84-112">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-128" target="QeT_NbNgp4kRS5rv2p84-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-128" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="417" y="551" width="46" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-131" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="491" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
