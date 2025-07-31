@@ -96,12 +96,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-157">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-157" target="QeT_NbNgp4kRS5rv2p84-165">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="595.5" />
-              <mxPoint x="490" y="595.5" />
-              <mxPoint x="490" y="560.5" />
+              <mxPoint x="340" y="596" />
+              <mxPoint x="490" y="596" />
+              <mxPoint x="490" y="561" />
             </Array>
             <mxPoint x="504" y="560.5" as="targetPoint" />
           </mxGeometry>
@@ -109,13 +109,9 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-157" value="冲突检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="300" y="545.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-159">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-159">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="504" y="560.5200000000001" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="520" y="561" />
-              <mxPoint x="520" y="561" />
-            </Array>
+            <mxPoint x="520" y="560.6" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-159" value="冲突类型判定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
