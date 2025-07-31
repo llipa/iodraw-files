@@ -106,7 +106,7 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-63" target="QeT_NbNgp4kRS5rv2p84-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-63" value="句级切分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="604" y="584" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-65" target="QeT_NbNgp4kRS5rv2p84-71">
@@ -123,10 +123,10 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-66" value="来源1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.428565615699426;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="482" y="705" width="70" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-67" value="来源2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.428565615699426;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-67" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.428565615699426;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="578" y="705" width="70" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-68" value="来源3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.428565615699426;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-68" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.428565615699426;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="682" y="705" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-70">
@@ -137,13 +137,13 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-70" value="文本来源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="426" y="675" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-71" value="向量化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="572" y="642" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-73" target="QeT_NbNgp4kRS5rv2p84-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-73" value="bge-m3" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-73" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="673" y="646" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-74" value="True" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
@@ -172,7 +172,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-78" value="匹配句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="705" y="618" width="46" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-79" value="" style="group" vertex="1" connectable="0" parent="1">
