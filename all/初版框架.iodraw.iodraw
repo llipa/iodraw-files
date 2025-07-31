@@ -222,7 +222,7 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-128" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="417" y="551" width="46" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-132" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-132" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="170" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
