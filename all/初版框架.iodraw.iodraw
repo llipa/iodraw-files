@@ -67,144 +67,144 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-144" target="QeT_NbNgp4kRS5rv2p84-157">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="544.5" />
-              <mxPoint x="280" y="560.5" />
+              <mxPoint x="280" y="526.5" />
+              <mxPoint x="280" y="542.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-144" value="查询句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="534.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="230" y="516.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-154" target="QeT_NbNgp4kRS5rv2p84-157">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="570.5" />
-              <mxPoint x="280" y="560.5" />
+              <mxPoint x="280" y="552.5" />
+              <mxPoint x="280" y="542.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-154" value="相似句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="560.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="230" y="542.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-157" target="QeT_NbNgp4kRS5rv2p84-159">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="560.5" />
+              <mxPoint x="390" y="542.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-157" target="QeT_NbNgp4kRS5rv2p84-165">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="596" />
-              <mxPoint x="490" y="596" />
-              <mxPoint x="490" y="561" />
+              <mxPoint x="340" y="578" />
+              <mxPoint x="490" y="578" />
+              <mxPoint x="490" y="543" />
             </Array>
-            <mxPoint x="504" y="560.5" as="targetPoint" />
+            <mxPoint x="504" y="542.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-157" value="冲突检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="300" y="545.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="527.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-159">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="560.6" as="targetPoint" />
+            <mxPoint x="520" y="542.6" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-159" value="冲突类型判定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="404" y="545.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="404" y="527.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-163" value="冲突" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="370" y="540.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="370" y="522.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-164" value="不冲突" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="363" y="578.5" width="50" height="20" as="geometry" />
+          <mxGeometry x="363" y="560.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-165" value="是否冲突" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="550.5" width="50" height="20" as="geometry" />
+          <mxGeometry x="520" y="532.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-173" target="QeT_NbNgp4kRS5rv2p84-159">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-173" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="421" y="510" width="46" height="20" as="geometry" />
+          <mxGeometry x="421" y="492" width="46" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-178" value="&lt;b&gt;第二版冲突检测&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="540.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="120" y="522.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-179" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="637.5" width="200" height="75" as="geometry" />
+          <mxGeometry x="295" y="622.5" width="200" height="75" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-181" target="QeT_NbNgp4kRS5rv2p84-186">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="646.5" />
-              <mxPoint x="280" y="662.5" />
+              <mxPoint x="280" y="631.5" />
+              <mxPoint x="280" y="647.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-181" value="查询句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="636.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="230" y="621.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-183" target="QeT_NbNgp4kRS5rv2p84-186">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="672.5" />
-              <mxPoint x="280" y="662.5" />
+              <mxPoint x="280" y="657.5" />
+              <mxPoint x="280" y="647.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-183" value="相似句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="662.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="230" y="647.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-186" target="QeT_NbNgp4kRS5rv2p84-188">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="662.5" />
+              <mxPoint x="390" y="647.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-186" target="QeT_NbNgp4kRS5rv2p84-191">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="697.5" />
-              <mxPoint x="490" y="697.5" />
-              <mxPoint x="490" y="662.5" />
+              <mxPoint x="340" y="682.5" />
+              <mxPoint x="490" y="682.5" />
+              <mxPoint x="490" y="647.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-186" value="冲突检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="300" y="647.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="632.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-188" target="QeT_NbNgp4kRS5rv2p84-191">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-188" value="冲突类型判定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="404" y="647.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="404" y="632.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-189" value="x3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="464" y="612.5" width="40" height="30" as="geometry" />
+          <mxGeometry x="464" y="597.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-191" target="QeT_NbNgp4kRS5rv2p84-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-191" value="投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="504" y="647.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="504" y="632.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-192" value="冲突" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="370" y="642.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="370" y="627.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-193" value="不冲突" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="363" y="680.5" width="50" height="20" as="geometry" />
+          <mxGeometry x="363" y="665.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-194" value="是否冲突" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="652.5" width="50" height="20" as="geometry" />
+          <mxGeometry x="570" y="637.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-196" target="QeT_NbNgp4kRS5rv2p84-188">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-196" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="421" y="613" width="46" height="20" as="geometry" />
+          <mxGeometry x="421" y="598" width="46" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
