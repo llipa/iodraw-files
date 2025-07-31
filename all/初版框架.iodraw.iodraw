@@ -115,7 +115,12 @@
           <mxGeometry x="132.32442396313365" y="21.502232142857142" width="40.715207373271895" height="15.267857142857142" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="QeT_NbNgp4kRS5rv2p84-37" source="QeT_NbNgp4kRS5rv2p84-26" target="QeT_NbNgp4kRS5rv2p84-29">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="189" y="49" />
+              <mxPoint x="189" y="49" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-37">
           <mxGeometry x="132.32442396313365" y="41.732142857142854" width="40.715207373271895" height="15.267857142857142" as="geometry" />
@@ -123,10 +128,10 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-37">
           <mxGeometry x="185.2541935483871" y="3.8169642857142856" width="35.6258064516129" height="7.633928571428571" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-28" value="自然语言文本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-37">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-37">
           <mxGeometry x="185.2541935483871" y="25.319196428571427" width="35.6258064516129" height="7.633928571428571" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-29" value="规范格式文本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-37">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-37">
           <mxGeometry x="185.2541935483871" y="45.54910714285714" width="35.6258064516129" height="7.633928571428571" as="geometry" />
         </mxCell>
       </root>
