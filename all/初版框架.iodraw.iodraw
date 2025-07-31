@@ -69,13 +69,13 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="QeT_NbNgp4kRS5rv2p84-37" source="QeT_NbNgp4kRS5rv2p84-10" target="QeT_NbNgp4kRS5rv2p84-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-10" value="IMG" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-37">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-37">
           <mxGeometry x="55.98341013824885" y="3.8169642857142856" width="15.268202764976959" height="7.633928571428571" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="QeT_NbNgp4kRS5rv2p84-37" source="QeT_NbNgp4kRS5rv2p84-12" target="QeT_NbNgp4kRS5rv2p84-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-12" value="WEB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-37">
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-37">
           <mxGeometry x="55.98341013824885" y="25.319196428571427" width="15.268202764976959" height="7.633928571428571" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="QeT_NbNgp4kRS5rv2p84-37" source="QeT_NbNgp4kRS5rv2p84-14" target="QeT_NbNgp4kRS5rv2p84-20">
