@@ -26,7 +26,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="581" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="350" y="600" />
+              <mxPoint x="320" y="590" />
+              <mxPoint x="350" y="590" />
               <mxPoint x="350" y="581" />
             </Array>
           </mxGeometry>
@@ -43,7 +44,7 @@
           <mxGeometry x="280" y="558" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-109" value="相似句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="583" width="40" height="20" as="geometry" />
+          <mxGeometry x="280" y="580" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-112" target="QeT_NbNgp4kRS5rv2p84-120">
           <mxGeometry relative="1" as="geometry" />
