@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QeT_NbNgp4kRS5rv2p84-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="533.5" width="160" height="70" as="geometry" />
+          <mxGeometry x="140" y="533.5" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-6" value="保险文档" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="121" y="436" width="70" height="30" as="geometry" />
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;opacity=30;" vertex="1" parent="QeT_NbNgp4kRS5rv2p84-48">
           <mxGeometry x="114.41935483870965" y="45.54910714285711" width="22.580645161290313" height="7.633928571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="66" y="478" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
