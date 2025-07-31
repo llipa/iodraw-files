@@ -82,19 +82,8 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="486" y="549" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-63" target="QeT_NbNgp4kRS5rv2p84-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="604" y="584" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-65" target="QeT_NbNgp4kRS5rv2p84-71">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="730" y="626" />
-              <mxPoint x="613" y="626" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="690" y="584" width="80" height="30" as="geometry" />
@@ -118,9 +107,6 @@
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="572" y="642" width="81" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="QeT_NbNgp4kRS5rv2p84-73" target="QeT_NbNgp4kRS5rv2p84-71">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QeT_NbNgp4kRS5rv2p84-73" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="673" y="646" width="60" height="20" as="geometry" />
