@@ -206,8 +206,8 @@
         <mxCell id="QeT_NbNgp4kRS5rv2p84-196" value="冲突类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="421" y="598" width="46" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QeT_NbNgp4kRS5rv2p84-200" value="&lt;b&gt;第二版冲突检测&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="534.5" width="110" height="30" as="geometry" />
+        <mxCell id="QeT_NbNgp4kRS5rv2p84-200" value="&lt;b&gt;第三版冲突检测&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="627.5" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
