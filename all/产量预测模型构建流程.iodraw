@@ -71,7 +71,7 @@
           <mxGeometry x="16" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="237" y="600" width="110" height="50" as="geometry" />
+          <mxGeometry x="270" y="600" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-20" value="机器学习&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zYryPo0Wf2myLXUbMOSG-46">
           <mxGeometry width="109.99999999999997" height="50" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="25.00000000000002" y="19.166666666666668" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="367" y="600" width="110.03" height="50" as="geometry" />
+          <mxGeometry x="390" y="600" width="110.03" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-21" value="深度学习&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zYryPo0Wf2myLXUbMOSG-47">
           <mxGeometry width="110.03000000000003" height="50" as="geometry" />
