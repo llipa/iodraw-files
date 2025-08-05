@@ -55,8 +55,8 @@
         <mxCell id="zYryPo0Wf2myLXUbMOSG-20" value="机器学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zYryPo0Wf2myLXUbMOSG-21" value="机器学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="zYryPo0Wf2myLXUbMOSG-21" value="深度学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
