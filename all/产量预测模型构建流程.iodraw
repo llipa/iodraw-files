@@ -62,7 +62,7 @@
           <mxGeometry x="25" y="25" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-26" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="230" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-20" value="机器学习&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zYryPo0Wf2myLXUbMOSG-26">
           <mxGeometry width="120" height="60" as="geometry" />
