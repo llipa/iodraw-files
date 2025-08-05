@@ -304,7 +304,10 @@
           <mxGeometry x="630" y="619.1666666666666" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-130" value="机器学习" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="186" y="438" width="70" height="30" as="geometry" />
+          <mxGeometry x="488.94" y="600" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zYryPo0Wf2myLXUbMOSG-131" value="机器学习" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="600" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
