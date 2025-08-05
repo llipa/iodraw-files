@@ -46,6 +46,9 @@
         <mxCell id="zYryPo0Wf2myLXUbMOSG-15" value="农业专家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="105" y="495" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zYryPo0Wf2myLXUbMOSG-17" value="特征降维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
