@@ -66,15 +66,6 @@
         <mxCell id="zYryPo0Wf2myLXUbMOSG-17" value="特征降维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="515" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zYryPo0Wf2myLXUbMOSG-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="309.97" y="600" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zYryPo0Wf2myLXUbMOSG-21" value="深度学习&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zYryPo0Wf2myLXUbMOSG-25">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zYryPo0Wf2myLXUbMOSG-24" value="&lt;div style=&quot;text-wrap: wrap; font-size: 8px;&quot;&gt;Transformer&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap; font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BERT&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#999999;" vertex="1" parent="zYryPo0Wf2myLXUbMOSG-25">
-          <mxGeometry x="25" y="25" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-29" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327.47" y="710" width="70" height="30" as="geometry" />
         </mxCell>
@@ -119,6 +110,12 @@
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-23" value="&lt;div style=&quot;text-wrap: wrap; font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;XGBoost&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap; font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;LightGBM&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="230" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zYryPo0Wf2myLXUbMOSG-21" value="深度学习&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309.97" y="600" width="80.03" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zYryPo0Wf2myLXUbMOSG-24" value="&lt;div style=&quot;text-wrap: wrap; font-size: 8px;&quot;&gt;Transformer&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap; font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BERT&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="315" y="630" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
