@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zYryPo0Wf2myLXUbMOSG-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="670" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zYryPo0Wf2myLXUbMOSG-72" value="模型迭代" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="670" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="570" width="330" height="90" as="geometry" />
         </mxCell>
@@ -113,12 +119,6 @@
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-65" value="专业知识注入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="80" y="700" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zYryPo0Wf2myLXUbMOSG-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="670" width="330" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="zYryPo0Wf2myLXUbMOSG-72" value="模型选择" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="670" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
