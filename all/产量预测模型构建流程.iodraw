@@ -270,7 +270,7 @@
           <mxGeometry x="170" y="605" width="180" height="115" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-110" value="&lt;div style=&quot;text-wrap: wrap; font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LightGBM&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap; font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;XGBoost&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="280" y="679.9966666666667" width="60" height="30" as="geometry" />
+          <mxGeometry x="230" y="688.5366666666666" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-130" value="机器学习" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="225" y="605" width="70" height="30" as="geometry" />
@@ -285,7 +285,7 @@
           <mxGeometry x="415" y="605" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-133" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pic3.zhimg.com/v2-3f281efdf1d34a849f0d4a9cc49453fe_r.jpg;" vertex="1" parent="1">
-          <mxGeometry x="180" y="632.99" width="170" height="59.02" as="geometry" />
+          <mxGeometry x="180" y="632.99" width="160" height="55.55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
