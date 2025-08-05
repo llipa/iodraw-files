@@ -26,7 +26,7 @@
           <mxGeometry x="305" y="400" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-7" value="特征构造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="530" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="530" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-8" value="归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="430" width="60" height="30" as="geometry" />
