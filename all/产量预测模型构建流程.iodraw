@@ -20,7 +20,7 @@
           <mxGeometry x="250" y="400" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-7" value="特征构造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="480" width="90" height="30" as="geometry" />
+          <mxGeometry x="250" y="555" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
