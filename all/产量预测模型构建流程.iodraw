@@ -26,10 +26,10 @@
           <mxGeometry x="290" y="470" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="410" width="190" height="110" as="geometry" />
+          <mxGeometry x="190" y="630" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="zYryPo0Wf2myLXUbMOSG-10" value="数据预处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="410" width="80" height="30" as="geometry" />
+        <mxCell id="zYryPo0Wf2myLXUbMOSG-10" value="特征工程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="630" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
