@@ -113,7 +113,7 @@
           <mxGeometry x="110" y="490" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-65" value="评估标准搭建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="130" y="690" width="80" height="30" as="geometry" />
+          <mxGeometry x="130" y="695" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-75" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=3.930285425612529;endSize=1.4046728971962616;width=3.2710280373831777;labelBackgroundColor=#000000;fillColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -155,7 +155,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zYryPo0Wf2myLXUbMOSG-83" value="评估标准搭建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="zYryPo0Wf2myLXUbMOSG-83" value="辅助模型调试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="130" y="720" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
