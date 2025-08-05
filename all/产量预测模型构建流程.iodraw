@@ -212,15 +212,6 @@
         <mxCell id="zYryPo0Wf2myLXUbMOSG-104" value="模型选择" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="560" y="570" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zYryPo0Wf2myLXUbMOSG-105" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="544.47" y="354" width="116" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zYryPo0Wf2myLXUbMOSG-106" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.485726492745528;" vertex="1" parent="zYryPo0Wf2myLXUbMOSG-105">
-          <mxGeometry y="5" width="22" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="zYryPo0Wf2myLXUbMOSG-107" value="蓝莓数据元件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zYryPo0Wf2myLXUbMOSG-105">
-          <mxGeometry x="16" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="zYryPo0Wf2myLXUbMOSG-114" value="参数优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="565" y="733" width="60" height="30" as="geometry" />
         </mxCell>
