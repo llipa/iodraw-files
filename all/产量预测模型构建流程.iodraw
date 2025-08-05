@@ -91,8 +91,8 @@
         <mxCell id="zYryPo0Wf2myLXUbMOSG-24" value="&lt;div style=&quot;text-wrap: wrap; font-size: 8px;&quot;&gt;Transformer&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap; font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BERT&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#999999;" vertex="1" parent="zYryPo0Wf2myLXUbMOSG-47">
           <mxGeometry x="20.019999999999982" y="23" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zYryPo0Wf2myLXUbMOSG-50" value="参数优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="386" y="708" width="70" height="30" as="geometry" />
+        <mxCell id="zYryPo0Wf2myLXUbMOSG-50" value="参数优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="405" y="719" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
